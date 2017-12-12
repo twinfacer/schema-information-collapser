@@ -1,14 +1,16 @@
 {
   "name": "SchemaInformationCollapser",
   "main": "./lib/schema-information-collapser",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple package that folds Schema Information annotation in rails models files",
-  "keywords": ["ruby", "rails"],
+  "keywords": [
+    "ruby",
+    "rails"
+  ],
   "repository": "https://github.com/twinfacer/schema-information-collapser",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
