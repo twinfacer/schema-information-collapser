@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle schema-information-collapser",
+        "command": "schema-information-collapser:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "schema-information-collapser",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "schema-information-collapser:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
