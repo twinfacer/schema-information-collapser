@@ -1,5 +1,5 @@
 {
-  "name": "SchemaInformationCollapser",
+  "name": "schema-information-collapser",
   "main": "./lib/schema-information-collapser",
   "version": "0.2.0",
   "description": "A simple package that folds Schema Information annotation in rails models files",
